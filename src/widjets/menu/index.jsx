@@ -9,17 +9,17 @@ const [openMenu, setOpenMenu] = useState(false)
         <nav className="header_menu">
                     <ul className={`header_list ${openMenu ? "active" : ""}`}>
                       <li>
-                        <Link href="#" className="hlnk">
+                        <Link href="/catalog" className="hlnk">
                         Каталог
                         </Link>
                       </li>
                       <li>
-                        <Link href="#" className="hlnk">
+                        <Link href="/patners" className="hlnk">
                         Партнерам
                         </Link>
                       </li>
                       <li>
-                        <Link href="#" className="hlnk">
+                        <Link href="/blog" className="hlnk">
                         блог
                         </Link>
                       </li>

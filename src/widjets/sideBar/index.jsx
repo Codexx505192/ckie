@@ -5,24 +5,24 @@ export default function SideBar(){
         <div className="header_lft">
              <div className="sid_top">
              <div className="sd_logo">
-              <Link href="#" className="logo">
+              <Link href="/" className="logo">
               <img src="./img/logo.png" alt="logo" />
               </Link>
              </div>
 
              <ul className="ul1">
               <li>
-                <Link href="#" className="lnk">
+                <Link href="/catalog" className="lnk">
                 Каталог
                 </Link>
               </li>
               <li>
-                <Link href="#" className="lnk">
+                <Link href="/partners" className="lnk">
                 Партнерам
                 </Link>
               </li>
               <li>
-                <Link href="#" className="lnk">
+                <Link href="/blog" className="lnk">
                 блог
                 </Link>
               </li>

@@ -48,11 +48,11 @@ export default function Page(){
                      </Link>
 
 
-                     <Link href="#" className="uranus">
+                     <Link href="/uranus" className="uranus">
                      <img src="./kids/uranus.svg" alt="uranus" />
                      </Link>
 
-                     <Link href="#" className="saturn">
+                     <Link href="/saturn" className="saturn">
                      <img src="./kids/saturn.svg" alt="saturn" />
                      </Link>
 
@@ -66,15 +66,15 @@ export default function Page(){
                      <img src="./kids/Sun_ill.svg" alt="" />
                      </Link>
 
-                     <Link href="#" >
+                     <Link href="/mercury" >
                      <img src="./kids/mercury.svg" alt="mercury" />
                      </Link>
 
-                     <Link href="#">
-                     <img src="./kids/venus.svg" alt="mercury" />
+                     <Link href="/venus">
+                     <img src="./kids/venus.svg" alt="venus" />
                      </Link>
 
-                     <Link href="#" >
+                     <Link href="/earth" >
                      <img src="./kids/earth.svg" alt="earth" />
                      </Link>
 
@@ -95,11 +95,11 @@ export default function Page(){
                      </Link>
 
 
-                     <Link href="#">
+                     <Link href="/uranus">
                      <img src="./kids/uranus.svg" alt="uranus" />
                      </Link>
 
-                     <Link href="#">
+                     <Link href="/saturn">
                      <img src="./kids/saturn.svg" alt="saturn" />
                      </Link>
 

@@ -8,7 +8,6 @@
 .container{
   width: 1100px;
   margin: 0 auto;
-  background-color: aquamarine;
   position: relative;
 }
 
@@ -2319,6 +2318,90 @@ cursor: pointer;
   font-size: 20px;
 }
 /* moon */
+
+/* saturn */
+.saturn_box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  background-color: #FFFFFF;
+}
+
+.saturn_itm {
+  max-width: 500px;
+  height: 500px;
+}
+
+
+.saturn_itm img{
+  width: 100%;
+  height: 100%;
+}
+
+.txt83{
+  padding: 0 0 15px;
+  font-size: 20px;
+}
+
+
+.saturn_bi{
+  padding: 20px 0;
+  background-color:#FFFFFF;
+}
+
+
+.txt84{
+  padding: 0 0 15px;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.txt85{
+  padding: 0 0 15px;
+  font-size: 20px;
+}
+/* saturn */
+
+
+/* uranus */
+.uranus_box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  background-color: #FFFFFF;
+}
+
+.uranus_itm{
+  max-width: 500px;
+  height: 500px;
+}
+
+.uranus_itm img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.uranus_info{
+  padding: 20px 0;
+  background-color: #FFFFFF;
+}
+
+.txt86{
+  padding: 0 0 15px;
+  font-size: 20px;
+}
+
+
+.txt87{
+  padding: 5px 0 15px;
+  font-size: 22px;
+  font-weight: 700;
+}
+/* uranus */
 
 @media(max-width: 1200px){
   .container{

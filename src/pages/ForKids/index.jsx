@@ -19,31 +19,31 @@ export default function Page(){
                      <img src="./kids/Sun_ill.svg" alt="" />
                      </Link>
 
-                     <Link href="#" className="mercury">
+                     <Link href="/mercury" className="mercury">
                      <img src="./kids/mercury.svg" alt="mercury" />
                      </Link>
 
-                     <Link href="#" className="venus">
+                     <Link href="/venus" className="venus">
                      <img src="./kids/venus.svg" alt="mercury" />
                      </Link>
 
-                     <Link href="#" className="earth">
+                     <Link href="/earth" className="earth">
                      <img src="./kids/earth.svg" alt="earth" />
                      </Link>
 
-                     <Link href="#" className="moon">
+                     <Link href="/moon" className="moon">
                      <img src="./kids/moon.svg" alt="moon" />
                      </Link>
 
-                     <Link href="#" className="jupiter">
+                     <Link href="/jupiter" className="jupiter">
                      <img src="./kids/jupiter.svg" alt="jupiter" />
                      </Link>
 
-                     <Link href="#" className="mars">
+                     <Link href="/mars" className="mars">
                      <img src="./kids/mars.svg" alt="mars" />
                      </Link>
 
-                     <Link href="#" className="neptue">
+                     <Link href="/neptune" className="neptue">
                      <img src="./kids/neptue.svg" alt="neptue" />
                      </Link>
 
@@ -56,7 +56,7 @@ export default function Page(){
                      <img src="./kids/saturn.svg" alt="saturn" />
                      </Link>
 
-                     <Link href="#" className="pluto">
+                     <Link href="/pluton" className="pluto">
                      <img src="./kids/pluto.svg" alt="pluto" />
                      </Link>
 
@@ -78,19 +78,19 @@ export default function Page(){
                      <img src="./kids/earth.svg" alt="earth" />
                      </Link>
 
-                     <Link href="#">
+                     <Link href="/moon">
                      <img src="./kids/moon.svg" alt="moon" />
                      </Link>
 
-                     <Link href="#">
+                     <Link href="/jupiter">
                      <img src="./kids/jupiter.svg" alt="jupiter" />
                      </Link>
 
-                     <Link href="#">
+                     <Link href="/mars">
                      <img src="./kids/mars.svg" alt="mars" />
                      </Link>
 
-                     <Link href="#" >
+                     <Link href="/neptune" >
                      <img src="./kids/neptue.svg" alt="neptue" />
                      </Link>
 
@@ -103,7 +103,7 @@ export default function Page(){
                      <img src="./kids/saturn.svg" alt="saturn" />
                      </Link>
 
-                     <Link href="#">
+                     <Link href="/pluton">
                      <img src="./kids/pluto.svg" alt="pluto" />
                      </Link>
                     </div>

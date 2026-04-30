@@ -1,3 +1,4 @@
+import Footer from "@/widjets/footer";
 import SideBar from "@/widjets/sideBar";
 
 export default function Page(){

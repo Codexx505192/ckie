@@ -1,3 +1,4 @@
+import Footer from "@/widjets/footer";
 import Menu from "@/widjets/menu";
 import SideBar from "@/widjets/sideBar";
 
@@ -114,6 +115,12 @@ export default function Page(){
                     
                      </div>
                 </div>
+            </div>
+        </section>
+        
+        <section>
+            <div className="container">
+                <Footer/>
             </div>
         </section>
         </>

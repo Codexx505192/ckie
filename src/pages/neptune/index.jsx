@@ -1,3 +1,4 @@
+import Footer from "@/widjets/footer";
 import SideBar from "@/widjets/sideBar";
 import Link from "next/link";
 
@@ -161,6 +162,12 @@ export default function Page(){
                         </li>
                     </ul> 
                 </div>
+            </div>
+        </section>
+
+        <section>
+            <div className="container">
+                <Footer/>
             </div>
         </section>
         </>
